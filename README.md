@@ -12,4 +12,4 @@ Below is a collection of Power BI projects I've compiled and uploaded to GitHub.
 
 5. IT-Spend: This project involves analyzing data on IT spend and presenting it in a Power BI dashboard. https://github.com/cjfuentes-datascience/IT-Spend
 
-6. Sales-Report: https://github.com/cjfuentes-datascience/Sales-Report-PowerBI
+6. Sales-Report: The report includes several visualizations and a dashboard that allows users to explore and analyze different aspects of the sales data. https://github.com/cjfuentes-datascience/Sales-Report-PowerBI
