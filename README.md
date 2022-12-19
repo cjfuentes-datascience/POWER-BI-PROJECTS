@@ -11,3 +11,5 @@ Below is a collection of Power BI projects I've compiled and uploaded to GitHub.
 4. Executive-Summary-Finance-Report: This project involves creating an executive summary of financial data and presenting it in a Power BI dashboard. https://github.com/cjfuentes-datascience/Executive-Summary-Finance-Report 
 
 5. IT-Spend: This project involves analyzing data on IT spend and presenting it in a Power BI dashboard. https://github.com/cjfuentes-datascience/IT-Spend
+
+6. Sales-Report: https://github.com/cjfuentes-datascience/Sales-Report-PowerBI
