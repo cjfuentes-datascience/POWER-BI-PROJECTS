@@ -2,6 +2,8 @@
 
 Below is a collection of Power BI projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- Exploring-Top-Google-Searches-of-2021-PowerBI: https://github.com/cjfuentes-datascience/Exploring-Top-Google-Searches-of-2021-PowerBI
+
 - Sales-Report: The report includes several visualizations and a dashboard that allows users to explore and analyze different aspects of the sales data. https://github.com/cjfuentes-datascience/Sales-Report-PowerBI
 
 - Data-Professional-Survey: This project involves analyzing data from a survey of data professionals, including their demographics, skills, and experience, and presenting the results in a Power BI dashboard. https://github.com/cjfuentes-datascience/Data-Professional-Survey
