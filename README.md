@@ -8,8 +8,8 @@ Below is a collection of Power BI projects I've compiled and uploaded to GitHub.
 
 - Executive-Summary-Finance-Report: This project involves creating an executive summary of financial data and presenting it in a Power BI dashboard. https://github.com/cjfuentes-datascience/Executive-Summary-Finance-Report 
 
-- Exploring-Top-Google-Searches-of-2021-PowerBI: This project involves analyzing data on the top Google searches of 2021 and presenting the results in a Power BI dashboard.
-https://github.com/cjfuentes-datascience/Exploring-Top-Google-Searches-of-2021-PowerBI
+- Exploring-Top-Google-Searches-2021-PowerBI: This project involves analyzing data on the top Google searches of 2021 and presenting the results in a Power BI dashboard.
+https://github.com/cjfuentes-datascience/Exploring-Top-Google-Searches-2021-PowerBI
 
 - E-Commerce-Data-and-Profit-Analysis: This project involves analyzing data on an e-commerce business, including sales data and customer demographics, and presenting the results in a Power BI dashboard. https://github.com/cjfuentes-datascience/E-Commerce-Data-and-Profit-Analysis
 
